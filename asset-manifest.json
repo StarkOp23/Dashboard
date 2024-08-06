@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StarkOp23/Dashboard.git/static/css/main.714dda56.css",
+    "main.js": "/StarkOp23/Dashboard.git/static/js/main.2d31ccaf.js",
+    "index.html": "/StarkOp23/Dashboard.git/index.html",
+    "main.714dda56.css.map": "/StarkOp23/Dashboard.git/static/css/main.714dda56.css.map",
+    "main.2d31ccaf.js.map": "/StarkOp23/Dashboard.git/static/js/main.2d31ccaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714dda56.css",
+    "static/js/main.2d31ccaf.js"
+  ]
+}
